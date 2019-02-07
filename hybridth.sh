@@ -38,7 +38,7 @@ then
 clear
 figlet "Mr.Hybridth" | lolcat
 git clone https://github.com/21D4N404/Defacer
-mv Defaver $HOME
+mv Defacer $HOME
 cd $HOME/Defacer
 fi
 
